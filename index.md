@@ -1,11 +1,9 @@
 # FAANG Interview. Бортовые заметки сообщества
 
 ## Введение
-
 Этот репозиторий создан для “FAANG Interview” сообщества с целью упорядочить полезные ресурсы упоминаемые в чате. Каждая ссылка  в документе должна сопровождаться описанием. Не стесняемся слать pull реквесты и делать репозиторий лучше с каждым днем.
 
 ## Аббревиатуры
-
 - FAANG - Facebook, Apple, Amazon, Netflix, Google. Usually also means Microsoft, Github, Linkedin, Instagram, Snapchat, Palantir, Bloomberg, IBM. For Russian Companies: Yandex, - VK, Kaspersky and JetBrains. 
 - LP - [Leadership Principles](https://www.aboutamazon.com/working-at-amazon/our-leadership-principles) (by Amazon)
 - CtCI - Cracking the Coding Interview (book)
@@ -31,12 +29,10 @@
 - CLRS - Introduction of Algorithms ([book](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844))
 
 ## Mock  интервью сообщества
-
 Мы проводим технические мок-интервью в парах каждую неделю, больше деталей о том как это проходит в [этом документе](https://docs.google.com/document/d/1n-7-U6y2Cr58AygViDWkiqtKRq_jQdsRNKOfc-Uw1xE/edit?usp=sharing) (док открыт для комментирования).
 [Гайд как проводить мок-интервью](https://docs.google.com/document/d/1cX5zhd5Yb3IlMA2smbs8XgQCIapgeQQ1LW-01DJ8W5M/edit#heading=h.54uirbe8rdgs).
 
 ## Разные полезные ссылки
-
 - Сайты где можно решать задачи:
   - [https://leetcode.com/](https://leetcode.com/)
   - [https://www.interviewbit.com/](https://www.interviewbit.com/)
@@ -48,7 +44,7 @@
 - Mock  интервью
   - [https://www.pramp.com/](https://www.pramp.com/#/) -  парные мок интервью
   - [http://www.gainlo.co/](http://www.gainlo.co/)  платный. позволяет собеседоваться с реальными сотрудниками из ФААНГ. сайт гарантирует это. цена указывается своя на каждого интервьюера, от 100 до 200 долларов за мок. обещают подробный фидбэк после мока. Another opinion about the service.
-  - https://interviewing.io/ - Practice interviewing with engineers from Google, Facebook, and more... anonymously. Price varies $100-200.
+  - [https://interviewing.io/](https://interviewing.io/) - Practice interviewing with engineers from Google, Facebook, and more... anonymously. Price varies $100-200.
 - Гайды по подготовке к интервью:
   - [Interview preparation Guide](https://paper.dropbox.com/doc/Interview-Preparation-Guide-PHeQLxMXugqC1vz72wgtX) - подборка ссылок на полезные репозитории, видео, курсы, и книги.
   - [Ilyushin/google-interview-university](https://github.com/Ilyushin/google-interview-university): A complete daily plan for studying to become a Google software engineer. 
@@ -120,7 +116,6 @@
   - [Видео разбор топ leetcode задач с ясным изложением на русском](https://www.youtube.com/channel/UCBSu9_DKr_N4P4lhM7MXSLw/videos)
   - [Разбор 75 основных типовых задач на Leetcode](https://youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g) - доходчивое изложение на английском.
 
-
 ## Математика
 - Сайты: big-O, элементарные алгоритмы и подходы к ним.
   - [Wumbo.net](https://wumbo.net/) - Wumbo is a math reference site for students
@@ -160,9 +155,9 @@
   - [https://www.interviewbit.com/courses/programming/](https://www.interviewbit.com/courses/programming/)  - подборка задач по темам от interviewbit
   - [List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) 
   - [Amazon Online Assessment Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)  из них было Critical Routers, и Product Suggestions
-  - [Amazon Final Interview Questions | SDE1](https://leetcode.com/discuss/interview-question/488887/amazon-final-interview-questions-sde1) 
+  - [Amazon Final Interview Questions. SDE1](https://leetcode.com/discuss/interview-question/488887/amazon-final-interview-questions-sde1) 
   - [Leetcode questions by likes/dislikes ratio](https://docs.google.com/spreadsheets/d/1LXSO4_Kz_1JMqoZMMuvhpBI99kvsZA4vSSCRAznqnXM/edit?usp=sharing)
-  - [Leetcode Patterns]()
+  - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 - Видео
   - [Binary Search with Duplicates video](https://seanprashad.com/leetcode-patterns/)
   - [Mock Google interview (for Software Engineer job) - coding & algorithms tips](https://www.youtube.com/watch?v=IWvbPIYQPFM)
@@ -172,7 +167,6 @@
   - [Construct tree from ancestor matrix](https://www.geeksforgeeks.org/construct-tree-from-ancestor-matrix/)
   - [Top 10 algorithms in Interview Questions](https://www.google.com/amp/s/www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/amp/)
   - [Bit Tricks for Competitive Programming](https://www.geeksforgeeks.org/bit-tricks-competitive-programming/)
-
 
 ## System Design Interview
 - Все сразу
@@ -218,7 +212,7 @@
   - [The Situation-Behavior-Impact-Feedback Tool - From MindTools.com](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm)
   - [https://leetcode.com/explore/interview/card/leapai/](https://leetcode.com/explore/interview/card/leapai/)
   - Блог bar-raiser из Amazon об их LP: [Interviewing at Amazon — Leadership Principles - Dave Anderson](https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d) 
-  - [Amazon Behavioral questions | Leadership Principles | LP](https://leetcode.com/discuss/interview-question/437082/amazon-behavioral-questions-leadership-principles-lp)  Тут ещё один товарищ из этого чата поучаствовал в эвенте, и у нас у обоих было одинаково: всё вопросы на LP & Behavior были слово в слово из этого списка 
+  - [Amazon Behavioral questions. Leadership Principles. LP](https://leetcode.com/discuss/interview-question/437082/amazon-behavioral-questions-leadership-principles-lp)  Тут ещё один товарищ из этого чата поучаствовал в эвенте, и у нас у обоих было одинаково: всё вопросы на LP & Behavior были слово в слово из этого списка 
   - Если это нетфликс или амазон там нужно читать их пейперы по кор вельюсам и быть готовы к вопросам показывающим как ты им соответствуешь.
   - [Что спрашивают на behavioral и system design интервью, или Как я попал в Facebook](https://dou.ua/lenta/articles/behavioral-system-design-interview-fb/) 
 
@@ -226,7 +220,7 @@
 ## Переговоры по офферу
   - [How to Negotiate Your Job Offer - Prof. Deepak Malhotra (Harvard Business School) Video](https://www.youtube.com/watch?v=km2Hd_xgo9Q)
   - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
-  - [Patrick McKenzie | Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+  - [Patrick McKenzie. Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
   - [Salary Negotiation with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/07/11/salary-negotiation-with-haseeb-qureshi/)
   - [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
   - [How I negotiated a $300,000 offer in Silicon Valley](https://medium.com/@bayareabelletrist/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656) 
@@ -327,7 +321,7 @@
 Сайты для изучения программирования
   - [Interview Practice](https://app.codesignal.com/interview-practice)   - средние между leetcode и codewars 
   - [https://www.codewars.com](https://www.codewars.com)  - для изучения языков, обилие задач и технических приемов
-  - [Firecode.io | Coding Interview Answers and Trainer](https://www.firecode.io/)  
+  - [Firecode.io, Coding Interview Answers and Trainer](https://www.firecode.io/)  
 - Список ресурсов, на которых можно найти рефералов (из какой-то статьи):
   - [https://repher.me/](https://repher.me/) 
   - [https://www.teamblind.com](https://www.teamblind.com) 
