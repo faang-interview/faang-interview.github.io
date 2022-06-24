@@ -287,6 +287,7 @@
   - [Большой док по фронтенд подготовке в FAANG](https://www.notion.so/evgeniiray/Front-End-Preparation-a0ac842415a04ddf9319718ea6ba22a4) 
   - [System Design for Front End Engineers](https://www.youtube.com/channel/UC6YpkaZsAcAvPNt4rLiS7dg) 
   - [Leetcode-like портал, сфокусированный на фронтенде](https://bigfrontend.dev/) 
+  - [Канал про подготовку и прохождение Front End интервью в США, MAANG и не только](https://t.me/front_end_interview) 
 
 ## Интернатура
   - [Summer 2020 Internships](https://github.com/elaine-zheng/summer2020internships) 
