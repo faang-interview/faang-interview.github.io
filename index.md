@@ -1,7 +1,7 @@
 # FAANG Interview. Бортовые заметки сообщества
 
 ## Введение
-Этот репозиторий создан для “FAANG Interview” сообщества с целью упорядочить полезные ресурсы упоминаемые в чате. Каждая ссылка  в документе должна сопровождаться описанием. Не стесняемся слать pull реквесты и делать репозиторий лучше с каждым днем.
+Этот [репозиторий](https://github.com/faang-interview/faang-interview.github.io) создан для “FAANG Interview” сообщества с целью упорядочить полезные ресурсы упоминаемые в чате. Каждая ссылка  в документе должна сопровождаться описанием. Не стесняемся слать pull реквесты и делать репозиторий лучше с каждым днем.
 
 ## Аббревиатуры
 - FAANG - Facebook, Apple, Amazon, Netflix, Google. Usually also means Microsoft, Github, Linkedin, Instagram, Snapchat, Palantir, Bloomberg, IBM. For Russian Companies: Yandex, - VK, Kaspersky and JetBrains. 
