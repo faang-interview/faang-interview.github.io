@@ -56,7 +56,6 @@
 - [LinkedIn группа участников чата для обмена контактами](https://www.linkedin.com/groups/8951002/)
 - [Статья про интервью в Амазон от одного из менеджеров](https://medium.com/@allo/%D0%BE-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B0%D0%BC%D0%B0%D0%B7%D0%BE%D0%BD-27e649323c4b)
 - [Сервис для проверки своего резюме (гуглить боты ATS)](https://www.topcv.com/)
-- [Подготовка к собеседованиям в IT-гиганты - Habr](https://habr.com/ru/post/499394/)
 
 ## Курсы, книги, статьи по алгоритмам и структурам данных
 - Курсы
@@ -72,13 +71,9 @@
   - [Algorithms, Computer science, Computing](https://www.khanacademy.org/computing/computer-science/algorithms) - курс по алгоритмам на Khan Academy
   - [Grokking the Coding Interview: Patterns for Coding Questions платный курс “Patterns for Coding Questions”](https://www.educative.io/courses/grokking-the-coding-interview)
   - [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) - coursera course
-  - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/syllabus)
   - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) - course from MIT
   - [Lectures in Advanced Data Structures (6.851)](https://courses.csail.mit.edu/6.851/fall17/lectures/) - MIT lectures by prof. Erik Demaine
   - [Intro to Algorithms and Data Structures](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - от Google на Python (бесплатно, в конце есть разбор всех этапов онсайт интервью)
-  - [Лекции Андрея Станкевича: базовый курс](https://www.youtube.com/playlist?list=PLl82cV92Ok4KKwHxhOU5w4BAaul3b9-iA)
-  - [Лекции Андрея Станкевича: Дополнительные главы алгоритмов](https://www.youtube.com/playlist?list=PL-_cKNuVAYAXH13oswY1rX_bK3KhtGhP8) - продвинутый курс
-  - [https://algoprog.ru/](https://algoprog.ru/) - олимпиадное программирование
 - Книги
   - [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) - более расширенный вариант курсов выше. [слайды к книге](https://algs4.cs.princeton.edu/lectures/https://algs4.cs.princeton.edu/lectures/)
   - [Computer Science Distilled: Learn the Art of Solving Computational Problems](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
@@ -102,7 +97,6 @@
   - [Dynamic Programming lecture #1 - Fibonacci, iteration vs recursion](https://youtu.be/YBSt1jYwVfU) - Errichto дает качественное объяснение приемов Dynamic Programming
   - [Dynamic Programming lecture #2 - Coin change, double counting video](https://youtu.be/1mtvm2ubHCY)
   - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)  карта задач.
-  - [Перебор. Жадные алгоритмы. Динамическое программирование](https://foxford.ru/wiki/informatika/odnomernoe-dinamicheskoe-programmirovanie-kolichestvo-sposobov) - видео теория для школьников от Владимира Гуровиц.
   - [What Is Dynamic Programming With Python Examples](https://skerritt.blog/dynamic-programming/) - объемная статья на тему динамического программирования с примерами
 - Видео
   - [Introduction to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk&t=1251s)
@@ -113,7 +107,6 @@
   - [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA) понравился этот канал. У парня хороший английский, он хорошо объясняет подходы к решению разных задач с описанием процесса решения, появления инсайтов
   - [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw) - серия видео о теории графов
   - Списки видео: [базовые алгоритмы](https://www.youtube.com/playlist?list=PLrS21S1jm43geDXVdeQy96P-f59pXeyPC) и  [чуть сложнее базовых](https://www.youtube.com/playlist?list=PLrS21S1jm43iF3DKP3rvpN8hoTBqHVYbr)
-  - [Видео разбор топ leetcode задач с ясным изложением на русском](https://www.youtube.com/channel/UCBSu9_DKr_N4P4lhM7MXSLw/videos)
   - [Разбор 75 основных типовых задач на Leetcode](https://youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g) - доходчивое изложение на английском.
 
 ## Математика
@@ -139,7 +132,6 @@
   - [E-Maxx Algorithms in English](https://cp-algorithms.com/);
   - [Timus - High quality Online Judge with a lot of solutions on Github](https://acm.timus.ru/);
   - [Yaal (Yet another algorithm library) by Egor Kulikov](https://github.com/EgorKulikov/yaal) - качественная библиотека на Java для олимпиад. Советую использовать в паре с [Intellij IDEA](https://plugins.jetbrains.com/plugin/7091-chelper) плагином. [Аналогичный плагин для С++ в CLion](https://plugins.jetbrains.com/plugin/7541-jhelper).
-  - [Подготовка к ШАД](https://www.youtube.com/playlist?list=PLiSyTNGp2j5Oi8lhQYlloEAfKDCpPus6X). (Учиться можно бесплатно из любой точки мира, но нужно сдать сложный экзамен).
 
 ## Интересные задачи и списки задач
 - Общие принципы
@@ -194,10 +186,8 @@
 лучше/популярней и понятней лекций по Raft/Paxos я не видел, а глубже наверно только статьи читать: [Raft lecture](https://www.youtube.com/watch?v=YbZ3zDzDnrw), [Paxos lecture](https://www.youtube.com/watch?v=JEpsBg0AO6o)
   - [System design interview questions](https://www.youtube.com/watch?v=UzLMhqg3_Wc&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2) - плейлист про дизайн интервью с канала [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
   - [https://www.codekarle.com/](https://www.codekarle.com/) 
-
 - Papers
   - [Cassandra](https://www.datastax.com/sites/default/files/content/whitepaper/files/2019-09/DataStax-WP-Apache-Cassandra-Architecture.pdf).Можно погуглить разные описания систем. Поисковый запрос вида "BigTable paper" или "MapReduce paper".
-
 - Воркшопы
   - [Workshop от Google](https://sre.google/classroom/distributed-pubsub/) по *non-abstract large systems design* на примере *Publish-Subscribe system* 
 
@@ -292,7 +282,6 @@
   - [Summer 2020 Internships](https://github.com/elaine-zheng/summer2020internships) 
   - [Статьи о стажировке в фаанг](https://dou.ua/lenta/tags/путь%20стажера/) 
   - [Стажировки в международных компаниях: как не завалить интервью и получить заветный оффер](https://habr.com/ru/company/hsespb/blog/472644/) 
-  - [Как попасть на стажировку в Google](https://habr.com/ru/company/hsespb/blog/432912/)  
   - [Как попасть на 5 стажировок в ФААНГ](https://youtu.be/YhuZ7lb8rGE) 
 
 ## Релокация
