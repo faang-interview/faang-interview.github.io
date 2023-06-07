@@ -2,9 +2,9 @@
 
 > By participating in the community, you agree to the next statements: 
 > - I agree that russia is a terrorist state and did genocide against Ukraine
-> - I agree that russia must pay reparations to Ukraine in a full scale
-> - I agree that Crimean peninsula is the territory of Ukraine
-> - I agree that putin is a criminal and must appear in International Court of Justice
+> - I agree that russia must pay reparations to Ukraine on a full scale
+> - I agree that the Crimean peninsula is the territory of Ukraine
+> - I agree that putin is a criminal and must appear in the International Court of Justice
 
 
 ## Вступ
@@ -98,14 +98,14 @@
   - [Algorithms and Complexity questions](https://leetcode.com/discuss/interview-question/469325/google-recruiter-phone-algorithms-and-complexity) неочікувано багато теорії
 - Dynamic programming & Backtracking
   - [Dynamic Programming for Interviews](https://www.byte-by-byte.com/dpbook/) чудова книга, що збирає в собі Top-Down, Bottom Up approaches. Дає методологію розбору завдання.
-  - [Dynamic Programming for Coding Interviews: A Bottom-Up approach to problem solving](https://www.goodreads.com/book/show/34394300-dynamic-programming-for-coding-interviews) книга
+  - [Dynamic Programming for Coding Interviews: A Bottom-Up approach to problem-solving](https://www.goodreads.com/book/show/34394300-dynamic-programming-for-coding-interviews) книга
   - [Backtracking introduction](https://www.geeksforgeeks.org/backtracking-introduction/) - geeksforgeeks
   - [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews) - платний курс із динамічного програмування
   - [Dynamic Programming lecture #1 - Fibonacci, iteration vs recursion](https://youtu.be/YBSt1jYwVfU) - Errichto дає якісне пояснення прийомів Dynamic Programming
   - [Dynamic Programming lecture #2 - Coin change, double counting video](https://youtu.be/1mtvm2ubHCY)
   - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)  карта задач.
   - [What Is Dynamic Programming With Python Examples](https://skerritt.blog/dynamic-programming/) - об'ємна стаття на тему динамічного програмування з прикладами
-  - [Динамічне програмування (відео лекції) (рос.)](https://www.youtube.com/watch?v=AawQnuYSY4Y&list=PLUfHxBkkFMScK6mOOWp5s6LgbzmtfwmYQ) - курс із динамічного програмування, що відмінно дає глибоке розуміння цього підходу, а також можливість попрактикуватися на розв'язанні задач з їх розбором
+  - [Динамічне програмування (відео лекції) (рос.)](https://www.youtube.com/watch?v=AawQnuYSY4Y&list=PLUfHxBkkFMScK6mOOWp5s6LgbzmtfwmYQ) - курс із динамічного програмування, що відмінно дає глибоке розуміння цього підходу, а також можливість попрактикуватися на розв'язанні задач із їх розбором
 - Відео
   - [Introduction to Big O Notation and Time Complexity](https://www.youtube.com/watch?v=D6xkbGLQesk&t=1251s)
   - [Плейлисти про рішення задач на вайтборді](https://youtube.com/user/tusharroy2525/playlis)
@@ -219,7 +219,7 @@
   - [How I negotiated a $300,000 offer in Silicon Valley](https://medium.com/@bayareabelletrist/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656) 
   - [Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company](https://www.amazon.com/Cracking-Tech-Career-Insider-Microsoft-ebook/dp/B00MFPZ9X6)
 
-## Після прийняття оферу (до іншої країни)
+## Після прийняття оферу (до йншої країни)
   - Щоб уникнути конфліктів - не кажіть своєму роботодавцю, що у вас офер. Скажіть, коли буде віза. Різниця між оффером і візою може сягати 12 місяців.
   - Одразу поговоріть із рекрутером про те, щоб його хтось замінив, якщо він раптово піде у відпустку на 2-3 тижні - у Європі це люблять. Теж саме з Project manager.
   - Буде Background check. Одразу підготуйте список усіх роботодавців і доказ того, що ви там працювали.
@@ -228,7 +228,7 @@
 
 ## Складання резюме
 - Відео
-  - [Поради від гугл рекрутерів](https://youtu.be/BYUy1yvjHxE)
+  - [Поради від гугл-рекрутерів](https://youtu.be/BYUy1yvjHxE)
   - [7 Tips for the Coding Resume (for Software Engineers) video](https://www.youtube.com/watch?v=xpaz7nrNmXA)
 - Шаблони
   - [Result oriented resume templates.](https://github.com/darhonbek/resume_templates)
@@ -272,9 +272,9 @@
 - Різне
   - [https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823?gi=1d9930d41bfb](https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823?gi=1d9930d41bfb) - Опис загального обсягу бажаних знань на позицію Frontend-інженера з посиланнями, де почитати. Посилання зі статті на дод. ресурси:
   - [Frontend Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  — The largest Github repository of frontend interview questions
-  - [Cracking the Frontend Interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)  — A guide by Jonathan White, a Twitter engineer, on how to prepare for frontend interviews
-  - [Frontend Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)  — A guide on Frontend Development and interview preparation created by Frontend Masters
-  - [Cracking the Frontend Coding Interview](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755)  — An article by Alex Pattison, an engineer at Yola, on questions and answers for frontend interviews
+  - [Cracking the Frontend Interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237) — A guide by Jonathan White, a Twitter engineer, on how to prepare for frontend interviews
+  - [Frontend Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/) — A guide on Frontend Development and interview preparation created by Frontend Masters
+  - [Cracking the Frontend Coding Interview](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755) — An article by Alex Pattison, an engineer at Yola, on questions and answers for frontend interviews
   - [https://www.pramp.com/](https://www.pramp.com/) - Тут є можливість практикуватися в інтерв'ю за тематикою Frontend
   - [http://gainlo.co](http://gainlo.co)  - Платний ресурс для Mock-інтерв'ю, зокрема з Frontend System Design. Дають розгорнутий фідбек.
   - [Large Front-End Preparation for FAANG Notion guide](https://www.notion.so/evgeniiray/Front-End-Preparation-a0ac842415a04ddf9319718ea6ba22a4) 
@@ -292,9 +292,9 @@
   - [https://relhut.com/visa-sponsors](https://relhut.com/visa-sponsors)  - список спонсорів Tier 2 візи, не тільки FAANG
 - [https://relhut.com/salary-calculator](https://relhut.com/salary-calculator)   - калькурятор базової зарплати в ЮК для технічних позицій
   - [Як потрапити в Кремнієву Долину (рос.)](https://youtu.be/bsrW1qQGKcQ)
-  - [https://t.me/canada_it (рос.)](https://t.me/canada_it)  - чатик айтішників по Канаді + корисні чати по Канаді [https://canadakaknado.info/#chats (рос.)](https://canadakaknado.info/#chats) 
+  - [https://t.me/canada_it (рос.)](https://t.me/canada_it)  - чатик айтівців по Канаді + корисні чати по Канаді [https://canadakaknado.info/#chats (рос.)](https://canadakaknado.info/#chats) 
 
-## Разное
+## Різне
 - Історії з життя:
   - [Why I studied full-time for 8 months for a Google interview](https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13/) - Стаття про підготовку в Google за 8 місяців
   - [Про те, як я потрапив на інтерв'ю в Microsoft Ireland (рос.)](https://medium.com/@ykurmangaliyev/%D0%BF%D1%80%D0%BE-%D1%82%D0%BE-%D0%BA%D0%B0%D0%BA-%D1%8F-%D0%BF%D0%BE%D0%BF%D0%B0%D0%BB-%D0%BD%D0%B0-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E-%D0%B2-microsoft-ireland-86a3101b335a) 
