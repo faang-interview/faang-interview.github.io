@@ -338,7 +338,6 @@
   - [epals.com](https://www.epals.com/)
   - [easylanguageexchange.com](https://www.easylanguageexchange.com/) - Easy Language Exchange
   - [conversationexchange.com](https://www.conversationexchange.com/) - Обмін розмовами
-  - [languageforexchange.com](https://www.languageforexchange.com/) - Мова для обміну
   - [englishbaby.com](https://www.englishbaby.com/)
 - Безплатні тести часи/граматика/ітд
   - [englisch-hilfen.de](https://www.englisch-hilfen.de/en/)
