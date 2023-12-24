@@ -188,7 +188,8 @@
   - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ) канал із дизайн-інтерв'ю
     краще/популярніше і зрозуміліше за лекції з Raft/Paxos я не бачив, а глибше, напевно, тільки статті читати: [Raft lecture](https://www.youtube.com/watch?v=YbZ3zDzDnrw), [Paxos lecture](https://www.youtube.com/watch?v=JEpsBg0AO6o)
   - [System design interview questions](https://www.youtube.com/watch?v=UzLMhqg3_Wc&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2) - плейлист про дизайн інтерв'ю з каналу [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
-  - [https://www.codekarle.com/](https://www.codekarle.com/) 
+  - [https://www.codekarle.com/](https://www.codekarle.com/)
+  - [https://www.lldcoding.com/](https://lldcoding.com/)
 - Papers
   - [Cassandra](https://www.datastax.com/sites/default/files/content/whitepaper/files/2019-09/DataStax-WP-Apache-Cassandra-Architecture.pdf). Можна погуглити різні описи систем. Пошуковий запит типу "BigTable paper" або "MapReduce paper".
 - Воркшопи
