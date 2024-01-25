@@ -59,15 +59,14 @@
   - [http://www.gainlo.co/](http://www.gainlo.co/) платний. Дає змогу співбесідуватися з реальними співробітниками з FAANG. Сайт гарантує це. Ціна вказується своя на кожного інтерв'юера, від 100 до 200 доларів за мок. Обіцяють детальний фідбек після мока. Another opinion about the service.
   - [https://interviewing.io/](https://interviewing.io/) - Practice interviewing with engineers from Google, Facebook, and more... anonymously. Price varies $100-200.
 - Гайди з підготовки до інтерв'ю:
+
   - [Interview preparation Guide](https://paper.dropbox.com/doc/Interview-Preparation-Guide-PHeQLxMXugqC1vz72wgtX) - добірка посилань на корисні репозиторії, відео, курси та книги.
-  - [Ilyushin/google-interview-university](https://github.com/Ilyushin/google-interview-university): A complete daily plan for studying to become a Google software engineer.
-  - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
   - [Coding Interviews: Questions, Analysis & Solutions (Expert's Voice in Programming)](https://www.amazon.com/Coding-Interviews-Questions-Solutions-Programming-ebook/dp/B00ACC6AQY)
   - [Uber Software Developer Interview Prep](https://s3.amazonaws.com/ubercandidateprep/index.html) - підготовка до інтерв'ю в Uber
   - [The Interview Study Guide For Software Engineers](https://dev.to/seattledataguy/the-interview-study-guide-for-software-engineers-764) - DEV Community
   - [Comprehensive Data Structure](https://leetcode.com/discuss/general-discussion/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide) and Algorithm Study Guide
+
 - [LinkedIn група учасників чату для обміну контактами](https://www.linkedin.com/groups/8951002/)
-- [Стаття про інтерв'ю в Амазон від одного з менеджерів (рос.)](https://medium.com/@allo/%D0%BE-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B0%D0%BC%D0%B0%D0%B7%D0%BE%D0%BD-27e649323c4b)
 - [Сервіс для перевірки свого резюме (гуглити боти ATS)](https://www.topcv.com/)
 
 ## Курси, книги, статті з алгоритмів і структур даних
@@ -89,18 +88,18 @@
   - [Lectures in Advanced Data Structures (6.851)](https://courses.csail.mit.edu/6.851/fall17/lectures/) - MIT lectures by prof. Erik Demaine
   - [Intro to Algorithms and Data Structures](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - від Google на Python (безплатно, наприкінці є розбір усіх етапів онсайт-інтерв'ю)
 - Книги
-  - [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) - більш розширений варіант курсів вище. [слайди до книги](https://algs4.cs.princeton.edu/lectures/https://algs4.cs.princeton.edu/lectures/)
+  - [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/) - більш розширений варіант курсів вище. [слайди до книги](https://algs4.cs.princeton.edu/lectures/)
   - [Computer Science Distilled: Learn the Art of Solving Computational Problems](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
   - [Grokking Algorithms. An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms)
+  - [Грокаємо алгоритми: Ілюстрований посібник для програмістів і допитливих](https://www.arthuss.com.ua/shop/hrokayemo-alhorytmy)
   - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
-  - [Data Structures and Algorithms in Python](https://www.wiley.com/en-ua/Data+Structures+and+Algorithms+in+Python-p-9781118549582) - книга з алгоритмів на Python
   - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) - ще одна книга з алгоритмів на Python
   - [Introduction to Algorithms, 3rd Edition (The MIT Press)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+  - [Томас Г.Кормен, Чарлз Е.Лейзерсон, Роналд Л.Рівест, Кліфорд Стайн. Вступ до алгоритмів](https://kis.prom.ua/p1039323974-tomas-gkormen-charlz.html)
   - [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - book by Eric Lehman
   - [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
 - Різні корисності
   - [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
-  - [Algorithms and Complexity questions](https://leetcode.com/discuss/interview-question/469325/google-recruiter-phone-algorithms-and-complexity) неочікувано багато теорії
 - Dynamic programming & Backtracking
   - [Dynamic Programming for Interviews](https://www.byte-by-byte.com/dpbook/) чудова книга, що збирає в собі Top-Down, Bottom Up approaches. Дає методологію розбору завдання.
   - [Dynamic Programming for Coding Interviews: A Bottom-Up approach to problem-solving](https://www.goodreads.com/book/show/34394300-dynamic-programming-for-coding-interviews) книга
@@ -116,7 +115,7 @@
   - [Плейлисти про рішення задач на вайтборді](https://youtube.com/user/tusharroy2525/playlis)
   - [Відеокурс про алгоритми від автора Cracking the coding interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
   - [Відео курс зі структур даних від автора Cracking the coding interview](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
-  - [Sorting Algorithms (slower, grouped and ordered)](https://www.youtube.com/playlist?list=PLZh3kxyHrVp_AcOanN_jpuQbcMVdXbqei) - анімація 26 алгоритмів сортування ([щось схоже](http://sorting.at/))
+  - [Sorting Algorithms (slower, grouped and ordered)](https://www.youtube.com/playlist?list=PLZh3kxyHrVp_AcOanN_jpuQbcMVdXbqei) - анімація 26 алгоритмів сортування
   - [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA) сподобався цей канал. У хлопця хороша англійська, він добре пояснює підходи до вирішення різних завдань з описом процесу вирішення, появи йнсайтів
   - [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw) - серія відео про теорію графів
   - [Розбір 75 основних типових задач на LeetCode](https://youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g) - дохідливе викладення англійською.
