@@ -79,7 +79,7 @@
   - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms) - Курс для тих, хто на початку шляху. Допоможе зрозуміти big-O, елементарні алгоритми та підходи до них.
   - [Computer Sc - Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F) - відео курс
   - [Algorithms, Computer science, Computing](https://www.khanacademy.org/computing/computer-science/algorithms) - курс з алгоритмів на Khan Academy
-  - [Grokking the Coding Interview: Patterns for Coding Questions платний курс “Patterns for Coding Questions”](https://www.educative.io/courses/grokking-the-coding-interview)
+  - [Grokking the Coding Interview: Patterns for Coding Questions платний курс “Patterns for Coding Questions”](https://www.designgurus.io/course/grokking-the-coding-interview)
   - [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) - coursera course
   - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) - course from MIT
   - [Lectures in Advanced Data Structures (6.851)](https://courses.csail.mit.edu/6.851/fall17/lectures/) - MIT lectures by prof. Erik Demaine
@@ -101,7 +101,7 @@
   - [Dynamic Programming for Interviews](https://www.byte-by-byte.com/dpbook/) чудова книга, що збирає в собі Top-Down, Bottom Up approaches. Дає методологію розбору завдання.
   - [Dynamic Programming for Coding Interviews: A Bottom-Up approach to problem-solving](https://www.goodreads.com/book/show/34394300-dynamic-programming-for-coding-interviews) книга
   - [Backtracking introduction](https://www.geeksforgeeks.org/backtracking-introduction/) - geeksforgeeks
-  - [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews) - платний курс із динамічного програмування
+  - [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.designgurus.io/course/grokking-dynamic-programming) - платний курс із динамічного програмування
   - [Dynamic Programming lecture #1 - Fibonacci, iteration vs recursion](https://youtu.be/YBSt1jYwVfU) - Errichto дає якісне пояснення прийомів Dynamic Programming
   - [Dynamic Programming lecture #2 - Coin change, double counting video](https://youtu.be/1mtvm2ubHCY)
   - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns) карта задач.
@@ -172,7 +172,7 @@
 
 - Усе одразу
   - [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-the-system-design-interview) в першу чергу вам порадять пройти курс [(Grokking the System Design Interview - Part 3 )](https://coursehunters.online/t/educative-io-design-gurus-grokking-the-system-design-interview-part-3/581)
-  - [Grokking the Object-Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
+  - [Grokking the Object-Oriented Design Interview](https://www.designgurus.io/course/grokking-the-object-oriented-design-interview)
   - [System-design-primer](https://github.com/donnemartin/system-design-primer) Популярний збірник різного щодо SDI
   - [System Design Interview Step By Step Guide](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ/videos). YouTube channel
   - [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347) - книга кажуть "бомба" типу data intensive
